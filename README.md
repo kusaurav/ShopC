@@ -1,7 +1,7 @@
 # ShopC
 Front-End of a food website which provides all services of online shopping to user.
 ## Windows 
-1. [Download Nodejs] (https://nodejs.org/en/download/)
+1. [Download Nodejs](https://nodejs.org/en/download/)
 2. Open command prompt and Check if node and npm installed successfully by following commands.
  <pre> node -v 
  
