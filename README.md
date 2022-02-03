@@ -7,7 +7,7 @@ Front-End of a food website which provides all services of online shopping to us
  
  npm -v </pre>
 3. Download zip file and extract in a folder.
-4. Now in  navigate to folder in which you have extracted Foody folder and then navigate to public folder
+4. Now in  navigate to folder in which you have extracted ShopC folder and then navigate to public folder
 5. install express 
 6. <pre> npm install express </pre>
 7. After installing express type command 
@@ -23,7 +23,7 @@ Front-End of a food website which provides all services of online shopping to us
 <pre> sudo apt-get install npm </pre>  
 4. Clone repository or simply download zip file and extract
 <pre> git clone https://github.com/kusaurav/ShopC.git</pre> 
-5. Navigate to folder in which you have extracted Foody folder and then navigate to public folder.
+5. Navigate to folder in which you have extracted ShopC folder and then navigate to public folder.
 6. Install express 
  <pre> sudo apt-get install express </pre> 
 7. After installing express type command 
